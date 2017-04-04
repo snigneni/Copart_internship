@@ -85,3 +85,16 @@ public class mostAppropriateLocation {
 		    conn.close();
 		  }
 }
+
+/* 1) Go to mostAppropriate Facility
+
+The code doesn't contain the database connection. 
+Our database connection contain the zip codes and custmer ids.
+-> A query is there is search for the zipcode of the given custid.
+-> A query searches for the zipcode.
+-> Distance is calculated by subtracting the given zipcode with the database ones and stored in hashmap.
+-> gthe least difference gives the nearest location.
+
+------------------------------------------------------------
+
+our other solution is using a google API and implementing it. No complete idea*/
