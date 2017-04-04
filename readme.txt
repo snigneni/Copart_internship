@@ -1,5 +1,2 @@
-
-1)Go to src/licenseKey and run it.
-
-
-
+Sai Snigdha Parvataneni ssp152230@utdallas.edu
+Aesha Delhiwala         asd160030@utdallas.edu
